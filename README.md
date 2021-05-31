@@ -1,2 +1,2 @@
 # vue2nullstack
-Some examples with both tecnologies
+Some examples with both technologies
